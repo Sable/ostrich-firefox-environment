@@ -1,1 +1,0 @@
-# ostrich-firefox-environment
